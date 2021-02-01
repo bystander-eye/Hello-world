@@ -29,3 +29,6 @@ but how？playing game？
 3. 三份求职
 4. 修理电脑，Ubuntu？python练习
 5. 口语课程，限时至2-28
+
+
+可能在周三安排面试，急需补充Linux系统知识、基础生物学常识
