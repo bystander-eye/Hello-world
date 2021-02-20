@@ -43,6 +43,21 @@ SIG-1R 非阿片类受体，研究背景、课题设计思路、
 为什么选择这个岗位
 形成对一个行业的认知可以从一个角度切入也可以从宏观角度总览，二者殊途同归。
 
+
+
+辉瑞 CSTA clinical study team assistant
+
+工作职责:
+Provide protocol and ICD administrative support to global Project Managers (PMs) and Study Managers (SMs), including but not limited reviewing protocols, checking the consistency of documents, prepare RighTrack II protocol outputs report, circulate and track the approval status.
+Request set up of study team SharePoint spaces, grant access to the team and update files in SharePoint for Inspection Readiness documents including team roster changes, , updating version dates etc., and uploading of meeting minutes and any documents to SharePoint as required.
+Maintain Pfizer Trial Master File (PTMF) in accordance with ICH-GCP and SOPs.
+File documents to PTMF/ GDMS.
+Prepare and update the trial and site information as necessary in Corporate Clinical Trial Registry (CCTR) in a timely manner.
+Assist team with the preparation of any documents upon request, including but not limited to vender oversight plan, correspondence with investigator sites and vendors, study specific manuals for the sites, etc.
+Track and update all information on an ongoing basis per request, including but not limited to site contact information, required site training attendance, vender information, patient recruitment, trial suppliers, payment schedule, Ariba orders, etc.
+Attend appropriate training programs and project teleconferences as applicable.
+Support and coordinate any activities as requested by PMs/SMs and as assigned within required timelines.
+
 PV 药物警戒
 # PV careers
 ## case processing 个例处理
