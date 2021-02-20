@@ -58,6 +58,55 @@ Track and update all information on an ongoing basis per request, including but 
 Attend appropriate training programs and project teleconferences as applicable.
 Support and coordinate any activities as requested by PMs/SMs and as assigned within required timelines.
 
+高级临床数据管理员
+职位信息
+岗位职责：
+
+1. 病例报告表的设计。
+
+2. EDC 和逻辑核查程序的构建及测试。
+
+3. CRF 填写指南的撰写。
+
+4. 按照数据核查计划进行数据清理。
+
+5. 管理质疑的发送，跟进和解决。
+
+6. 严重不良事件和外部数据的一致性比对。
+
+7. 数据导出及处理数据的传输。
+
+8. 数据库及相关管理文件的归档。
+
+
+
+能力要求：
+
+1. 良好的逻辑思维和沟通表达能力
+
+2. 良好的分析和解决问题的能力
+
+3. 良好的任务管理和时间管理能力
+
+4. 优秀的团队意识及责任感
+
+5. 具备高强度工作环境下的抗压能力
+
+
+
+任职资格：
+
+1.本科及以上学历，医学/药学/生物学/计算机等相关专业
+
+2.1-3 年临床工作经验，有数据管理经验优先
+
+3.英语6 级，听说读写无障碍
+
+4.熟练应用常规办公软件
+
+
+
+
 PV 药物警戒
 # PV careers
 ## case processing 个例处理
