@@ -1,6 +1,6 @@
 # Hello-world
-[] keep growing
-- [] but how？playing game？
+[ ] keep growing
+- [ ] but how？playing game？
 两种获取知识的途径：1、看学习资料，死磕文字；2、积极主动跟人聊天，带有一定目的性的问询。
 后者效率高，毕竟 听君一席话，胜读十年书。
 
