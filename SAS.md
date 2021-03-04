@@ -8,7 +8,7 @@ SAS 包含多个模块
 
 基本语法：
   - 分号结尾
-  - /*。。。*/ 进行注释
+  - ///*。。。/*// 进行注释
   - 书写格式没有强制的规范写法
   - SAS数据集：样本（观测、记录）、变量（字段、域）、表（数据集）、数据库
   - 绝大部分的SAS语句都可分为两步 DATA步和PROC步
@@ -31,7 +31,7 @@ proc print;
 run;
 ```
 2. 
-```
+``` SAS
 data oranges;
     input variety $ flavor texture looks;
     /* variety 后跟 $ 表示该变量为字符型*/
