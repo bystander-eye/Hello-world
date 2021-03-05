@@ -1,5 +1,5 @@
 # Hello-world
-[ ] keep growing
+*keep growing*
 - [ ] but how？playing game？
 - [x] watch more, think hard  
 两种获取知识的途径：1、看学习资料，死磕文字；2、积极主动跟人聊天，带有一定目的性的问询。
@@ -11,6 +11,9 @@
 如果想快速成功，就在一个方向上多坚持一会儿
 任何时候都不要放弃提升自己的机会，不要着急享受能力配不上的东西。
 
+英语翻译，详见[https://www.zhihu.com/question/20157069/answer/1530306036]
+
+CATTI 国家笔译证书 http://www.catticenter.com/cattiksjj/1394
 
 100句工作邮件用语：
 1. I am writing to confirm/enquire/inform you...
