@@ -1,3 +1,12 @@
+# Python
+- 安装python在Windows的cmd中出现pip无法识别的错误：
+-   输入 `python -m ensurepip`
+- pip 升级
+-   `pip install --upgrade pip --user`
+
+
+
+
 SAS 包含多个模块
 - base
 - insight(可以进行回归、相关性分析)
