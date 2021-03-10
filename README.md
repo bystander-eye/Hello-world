@@ -11,6 +11,10 @@
 如果想快速成功，就在一个方向上多坚持一会儿
 任何时候都不要放弃提升自己的机会，不要着急享受能力配不上的东西。
 
+R基础及可视化：https://mp.weixin.qq.com/s?__biz=MzUwOTg0MjczNw==&mid=2247488834&idx=1&sn=1ed7d57d512e0a6ce39d79a50a682d63&chksm=f90d511cce7ad80a8f760b85e2e9c60068605fbf1ebda0d2adaa946efe428e25e8e53d69fbad&token=1244382821&lang=zh_CN#rd
+
+NGS基础知识：https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1387765915319877633&__biz=MzUwOTg0MjczNw==#wechat_redirect
+
 英语翻译，详见[https://www.zhihu.com/question/20157069/answer/1530306036]
 
 CATTI 国家笔译证书 http://www.catticenter.com/cattiksjj/1394
